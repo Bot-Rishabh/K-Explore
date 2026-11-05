@@ -1,16 +1,78 @@
-# React + Vite
+# K Explore — Event Discovery & Management
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive event discovery and management website built with React.js and Tailwind CSS. K Explore helps users explore events, find events based on their interests, view event details, and register for events through a simple interface.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+[Visit K Explore](https://k-explore.vercel.app/)
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Event Discovery:** Browse featured and upcoming events.
+- **Search Events:** Find events by their names.
+- **Category Filtering:** Filter events based on categories.
+- **Event Details:** View information about individual events, including dates, venues, images, and descriptions.
+- **Event Registration:** Register for selected events using the registration form.
+- **Responsive Design:** User-friendly layout across desktop, tablet, and mobile devices.
+- **Modern UI:** Dark-themed interface with a clean design and interactive elements.
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React.js** — Frontend library
+- **JavaScript** — Application functionality
+- **Tailwind CSS** — Styling and responsive design
+- **Vite** — Development server and build tool
+- **Git & GitHub** — Version control and source code hosting
+- **Vercel** — Website deployment
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally.
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Bot-Rishabh/K-Explore.git
+```
+
+### 2. Navigate to the project directory
+
+```bash
+cd K-Explore
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
+
+```bash
+npm run dev
+```
+
+Open the local URL displayed in your terminal to view the website.
+
+## 📦 Production Build
+
+To create an optimized production build, run:
+
+```bash
+npm run build
+```
+
+## 🎯 Project Objective
+
+The objective of K Explore is to provide a simple and engaging platform for discovering and registering for events. The project demonstrates the use of modern frontend technologies, component-based development, responsive design, and interactive web functionality.
+
+## 👨‍💻 Author
+
+**Rishabh Burnwal**
+
+GitHub: [Bot-Rishabh](https://github.com/Bot-Rishabh)
+
+---
+
+*Developed as an event
